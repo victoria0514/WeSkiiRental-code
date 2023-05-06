@@ -1,0 +1,19 @@
+--Bugs--
+
+Back end: 
+Signup / Signin through firebase is not working properly with Front end.
+ - Signing in with firebase info then going to Account page shows you are not
+   logged in 
+
+Front end:
+
+--Implement--
+
+Back end: 
+- Tie Shipping info, Credit card info all into accounts on backend 
+- Integrate front end with backend (Fetch account info and place it on account
+  page)
+- Allow users to update their account info through the account page
+
+
+Front end:

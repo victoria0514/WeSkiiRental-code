@@ -1,0 +1,66 @@
+.not-logged-in {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
+
+.yes-logged-in {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 80vh;
+}
+
+.change-password {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.change-shipping {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.change-password h1 {
+  align-self: center;
+}
+
+.change-shipping h1 {
+  align-self: center;
+}
+
+.sign-out-button h1 {
+  align-self: center;
+}
+
+.form-row {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-col {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.form-big-col {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.sign-out-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

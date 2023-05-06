@@ -1,0 +1,24 @@
+[
+  {
+    "username" : "admin",
+    "password" : "admin",
+    "firstName" : "Morris",
+    "lastName" : "Admin",
+    "address" : "College of Staten Island",
+    "City" : "Staten Island",
+    "State" : "NY",
+    "Zip" : "10314",
+    "isLoggedIn" : true
+  },
+  {
+    "username" : "user",
+    "password" : "user",
+    "firstName" : "Clark",
+    "lastName" : "Kent",
+    "address" : "344 Clinton Street",
+    "City" : "Metropolis",
+    "State" : "NY",
+    "Zip" : "12345",
+    "isLoggedIn" : true
+  }
+]

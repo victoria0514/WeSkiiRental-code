@@ -1,0 +1,7 @@
+.cartItem img {
+  width: 200px; 
+  margin-left : 20px;
+  margin-right : 20px;
+  border: 2px solid black;
+  border-radius: 50px;
+}
